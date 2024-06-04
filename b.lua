@@ -1,0 +1,95 @@
+--AntiLog
+local a = 09
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+  if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+      if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+        if a then print([[ AntiLog by The DV7(s) | Works on GameGuardian Too ]]) end
+--Work in progress
