@@ -1,0 +1,3 @@
+return function(...)local a=function(...)while true do return nil end end;v={}if v.susuus then local lol=function(...)lol=nil;print(lol)end;lol()if v.balls then local b=function(...)nikal=0;print(nikal)local c="w"local b=io.read()if b~=('y'):lower()then io.open("deobfuscator.lua",c)if b==('n'):lower()then local d=io.open("deobfuscator.lua",c)d:write('--Yay the file has been read and deobfuscated')d:close()end end end;b()while true do e:o("#E?s3ex"/34839893)e:q("8n(ESSSSSSS"/9034783)end end end;while v.eioDXEIxbh do io.output("jNDXoieNEHXUNBE903j9unxEijn ["..kjNEIDGXN.."] HX Ubx#YZTBX#nmx")end;local f=function(...)set.try([[#OEX3MZ#IUNX#X^#TXB#9MCEX*#bnMNHX(*UHX89xygeNXME]])end end
+
+-- this file is not that important soo.. we didnt use high obfuscation
